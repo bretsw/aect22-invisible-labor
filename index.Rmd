@@ -231,7 +231,7 @@ include_graphics("img/fig3-articles-intersections-plot-taggart.png")
 
 --
 
-- These **administrative responsibilities** were invisible because they were **background labor**
+- These **administrative responsibilities** were invisible because they were **background labor**, overlooked because not part of the main responsibilities of research and teaching
 
 ---
 
