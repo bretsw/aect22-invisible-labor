@@ -37,7 +37,7 @@ class: inverse, center, middle
 
 class: inverse, center, middle
 
-# `r fa("far fa-compass", fill = "#fff")` <br><br> Professional Learning
+# `r fa("far fa-compass", fill = "#fff")` <br><br> Background
 
 ---
 
@@ -47,6 +47,14 @@ class: inverse, center, middle
 include_graphics("img/workshop.jpg")
 ```
 
+--
+
+Working in education requires many skills and keeping up with rapid changes
+
+--
+
+necessitating ongoing professional development
+
 ---
 
 # `r fa("far fa-compass", fill = "#fff")` Informal Learning
@@ -55,11 +63,17 @@ include_graphics("img/workshop.jpg")
 include_graphics("img/digging.jpg")
 ```
 
+Educators often have to figure things out on their own
+
+--
+
+through various means of informal learning
+
 ---
 
 class: inverse, center, middle
 
-# `r fa("fas fa-comments", fill = "#fff")` <br><br> Informal Learning: Invisible?
+# `r fa("fas fa-pause", fill = "#fff")` <br><br> Is informal learning <br> invisible labor?
 
 ---
 
@@ -71,7 +85,15 @@ include_graphics("img/invisible.jpg")
 
 --
 
-**Definition:** Invisible labor is...
+### Definitions:
+
+--
+
+- **Labor** is effort- or process-oriented understanding of professional activity.
+
+--
+
+- **Invisibility** is the processes through which professional activities might be overlooked, ignored, or devalued.
 
 ---
 
@@ -81,55 +103,109 @@ class: inverse, center, middle
 
 ---
 
-# `r fa("fas fa-book-open", fill = "#fff")` Systematic Literature Review
+# `r fa("fas fa-book-open", fill = "#fff")` Purpose
 
-### System ~ Preparation Process
-
-```{r, out.width = "720px", echo = FALSE, fig.align = "center"}
-include_graphics("img/prep.jpg")
+```{r, out.width = "240px", echo = FALSE, fig.align = "center"}
+include_graphics("img/articles.jpg")
 ```
+
+To understand educators' invisible labor, we searched 10 databases for:
+
+--
+
+- Peer-reviewed academic journal articles
+
+--
+
+- Written in English
+
+--
+
+- Years **2011–2021**
+
+--
+
+- **Keywords in Abstract:** and with at least one of the words education, teacher, educator, instructor, social media, professional development, professional learning, **or** informal learning
+
+--
+
+- **Keywords in Full Text:** invisible work, invisible labor, digital labor, hidden work, hidden labor, shadow work, shadow labor, shared economy, gift economy, invisible economy, **or** hidden economy
 
 ---
 
 # `r fa("fas fa-book-open", fill = "#fff")` Systematic Literature Review
 
-### System ~ Preparation Process: PRISMA standards
-
-```{r, out.width = "720px", echo = FALSE, fig.align = "center"}
+```{r, out.width = "100%", echo = FALSE, fig.align = "center"}
 include_graphics("img/fig1-PRISMA-flow-chart.jpg")
 ```
 
 ---
 
+# `r fa("fas fa-book-open", fill = "#fff")` Systematic Literature Review
+
+**1. Identification:**
+
+--
+
+  - **475 records** (418 from databases, 51 from table of contents, 6 from snowball)
+  
+  - 70 duplicates removed
+
+--
+
+**2. Screening:**
+
+--
+
+  - **405 records** screened by Title and Keywords
+  
+  - 224 records excluded
+  
+--
+  
+  - **181 records** screened by Abstract
+  
+  - 163 records excluded
+  
+--
+
+**3. Eligibility**
+
+--
+
+  - **18 full-text articles** accessed for eligibility
+  
+  - 2 full-text articles excluded
+
+---
+
 class: inverse, center, middle
 
-# `r fa("fas fa-binoculars", fill = "#fff")` <br><br> Findings
+# `r fa("fas fa-network-wired", fill = "#fff")` <br><br> Findings
 
 ---
 
-# `r fa("fas fa-book-open", fill = "#fff")` Overview of Articles
+# `r fa("fas fa-network-wired", fill = "#fff")` Overview of Articles (n=16)
+
+```{r, out.width = "480px", echo = FALSE, fig.align = "center"}
+include_graphics("img/articles.jpg")
+```
 
 --
 
-- Year:
+- **Publication Year:** 2 in 2011, 14 in 2017-2021
 
 --
 
-- Country:
+- **Research Methodology:** 11 qualitative, 3 quantitative, 2 mixed
 
 --
 
-- Level:
+- **Country:** 10 US, 2 UK, 1 each from Australia, Canada, Finland, Hong Kong, and Sweden
 
 --
 
-- Methodology: 
-
----
-
-# `r fa("fas fa-book-open", fill = "#fff")` Examples of Invisibility
-
-
+- **Type of Educators:** 11 higher ed faculty, 6 K-12 teachers, 1 pre-service teachers, 1 higher ed staff
 
 ---
 
@@ -141,7 +217,67 @@ include_graphics("img/fig2-articles-intersections-plot.png")
 
 ---
 
-# `r fa("fas fa-network-wired", fill = "#fff")` Invisible Labor Framework
+# `r fa("fas fa-network-wired", fill = "#fff")` Examples of Invisibility
+
+*Administrative Intensity and Faculty Job Stress* **(Taggart, 2021)**
+
+```{r, out.width = "320px", echo = FALSE, fig.align = "center"}
+include_graphics("img/fig3-articles-intersections-plot-taggart.png")
+```
+
+--
+
+- A study about the relationship between faculty members’ increased administrative responsibilities and job stress
+
+--
+
+- These **administrative responsibilities** were invisible because they were **background labor**
+
+---
+
+# `r fa("fas fa-network-wired", fill = "#fff")` Examples of Invisibility
+
+*Invisible Labor, Visible Change: Non-Tenure-Track Faculty Agency in a Research University* **(Drake et al., 2019)**
+
+```{r, out.width = "320px", echo = FALSE, fig.align = "center"}
+include_graphics("img/fig4-articles-intersections-plot-drake.png")
+```
+
+--
+
+- A study about how non-tenure-track faculty members perceive and operationalize their agency in a higher education research institution
+
+--
+
+- The faculty members' **non-tenure-track status** meant **precarious labor** intersecting with background labor
+
+---
+
+# `r fa("fas fa-network-wired", fill = "#fff")` Examples of Invisibility
+
+*The Invisible Labor of Social Media Pedagogy: A Case Study of #TeamRhetoric Community-Building on Twitter* **(Vie, 2021)**
+
+```{r, out.width = "320px", echo = FALSE, fig.align = "center"}
+include_graphics("img/fig5-articles-intersections-plot-vie.png")
+```
+
+--
+
+- A study about social media use in a graduate-level rhetoric and composition course
+
+--
+
+- Having grad students use social media for class created invisible labor for academics outside the class to by asking them to comment, reply, and provide advice
+
+---
+
+class: inverse, center, middle
+
+# `r fa("fas fa-pause", fill = "#fff")` <br><br> Invisible Labor Reflection
+
+---
+
+# `r fa("fas fa-pause", fill = "#fff")` Invisible Labor Reflection
 
 ```{r, out.width = "240px", echo = FALSE, fig.align = "center"}
 include_graphics("img/fig2-articles-intersections-plot.png")
@@ -171,7 +307,29 @@ include_graphics("img/fig2-articles-intersections-plot.png")
 
 class: inverse, center, middle
 
-# `r fa("fas fa-thumbtack", fill = "#fff")` Significance
+# `r fa("fas fa-binoculars", fill = "#fff")` Significance
+
+---
+
+# `r fa("fas fa-binoculars", fill = "#fff")` Significance
+
+```{r, out.width = "540px", echo = FALSE, fig.align = "center"}
+include_graphics("img/invisible.jpg")
+```
+
+### Invisible Labor framework
+
+--
+
+- **For practitioners:** Engage in self-reflection
+
+--
+
+- **For education leaders:** Make the invisible visible
+
+--
+
+- **For researchers:** Interrogate the literature
 
 ---
 
